@@ -1,0 +1,15 @@
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\bin\Debug\net6.0\Задача 10.exe
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\bin\Debug\net6.0\Задача 10.deps.json
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\bin\Debug\net6.0\Задача 10.runtimeconfig.json
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\bin\Debug\net6.0\Задача 10.dll
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\bin\Debug\net6.0\ref\Задача 10.dll
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\bin\Debug\net6.0\Задача 10.pdb
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\obj\Debug\net6.0\Задача 10.csproj.AssemblyReference.cache
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\obj\Debug\net6.0\Задача 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\obj\Debug\net6.0\Задача 10.AssemblyInfoInputs.cache
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\obj\Debug\net6.0\Задача 10.AssemblyInfo.cs
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\obj\Debug\net6.0\Задача 10.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\obj\Debug\net6.0\Задача 10.dll
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\obj\Debug\net6.0\ref\Задача 10.dll
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\obj\Debug\net6.0\Задача 10.pdb
+C:\Users\Игорь\Desktop\ДЗ С# 2\Задача 10\obj\Debug\net6.0\Задача 10.genruntimeconfig.cache
